@@ -1,5 +1,5 @@
 # Sorting Algorithms - Visualize and compare
-### This is a simple visualization project made using javascript 
+### Algorithms used :
 - Bubble Sort 
 - Selection Sort
 - Insertion Sort
