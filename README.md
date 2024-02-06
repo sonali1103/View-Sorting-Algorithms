@@ -8,4 +8,6 @@
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
+[Demo](https://sonali1103.github.io/View-Sorting-Algorithms/)
+
 
